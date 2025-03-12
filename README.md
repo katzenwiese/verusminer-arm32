@@ -31,6 +31,7 @@ cd verusminer-arm32
 (if you're building the binary from scratch
 OR
 wget https://github.com/katzenwiese/verusminer-arm32/releases/download/1.0/ccminer
+chmod +x ccminer
 (then you're already done)
 ```
 
