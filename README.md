@@ -1,4 +1,4 @@
-# ccminer for ARM32 (Static Build)
+# ccminer for ARM32 (Dynamic Build or Static Binary ready to download)
 
 A custom-built version of **ccminer** for **ARM32 devices** such as Raspberry Pi and other single-board computers. This version is designed to work directly on ARM32 platforms.
 
